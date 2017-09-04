@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JBox.iml" filepath="$PROJECT_DIR$/JBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jbox/jbox.iml" filepath="$PROJECT_DIR$/jbox/jbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jbox-api/jbox-api.iml" filepath="$PROJECT_DIR$/jbox-api/jbox-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jbox-jetty/jbox-jetty.iml" filepath="$PROJECT_DIR$/jbox-jetty/jbox-jetty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jbox-web/jbox-web.iml" filepath="$PROJECT_DIR$/jbox-web/jbox-web.iml" />
+    </modules>
+  </component>
+</project>

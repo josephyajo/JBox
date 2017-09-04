@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jbox" />
+        <module name="jbox-api" />
+        <module name="jbox-jetty" />
+        <module name="jbox-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="frame-sample-app" target="1.5" />
+      <module name="jbox" target="1.5" />
+      <module name="jbox-api" target="1.5" />
+      <module name="jbox-jetty" target="1.5" />
+      <module name="jbox-sample-app" target="1.5" />
+      <module name="jbox-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

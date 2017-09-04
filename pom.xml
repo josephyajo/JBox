@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.sheep.jbox</groupId>
+    <artifactId>jbox-sample-app</artifactId>
+    <version>${jbox.version}</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>jbox</module>
+        <module>jbox-api</module>
+        <module>jbox-jetty</module>
+        <module>jbox-web</module>
+    </modules>
+
+    <properties>
+        <jbox.version>0.0.1-SNAPSHOT</jbox.version>
+    </properties>
+</project>
